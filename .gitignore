@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BottleDetection.ConsoleApp/BottleDetection.ConsoleApp/bin/Debug/net8.0
+/BottleDetection.ConsoleApp/BottleDetection.ConsoleApp/obj
+/BottleDetection.ConsoleApp/.vs/BottleDetection.ConsoleApp
