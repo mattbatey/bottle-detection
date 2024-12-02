@@ -10,7 +10,7 @@ import supervision as sv
 from PIL import Image
 
 
-previewOutput = False
+previewOutput = True
 img_dir = r"C:\Users\matt.batey\OneDrive - novati.co.uk\Pictures\bottles\input"
 outputDir = r"C:\Users\matt.batey\OneDrive - novati.co.uk\Pictures\bottles\output"
 
